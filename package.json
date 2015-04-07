@@ -1,0 +1,25 @@
+{
+  "name": "audio-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "prova test.coffee -b -l chrome"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hystking/audio-manager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hystking/audio-manager/issues"
+  },
+  "homepage": "https://github.com/hystking/audio-manager",
+  "dependencies": {
+    "coffee-script": "^1.9.1"
+  },
+  "devDependencies": {
+    "prova": "^2.1.1"
+  }
+}
