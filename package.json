@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "prova test.coffee -b -l chrome"
+    "test": "prova test.coffee -b -l firefox"
   },
   "repository": {
     "type": "git",
